@@ -1,0 +1,12 @@
+*.save
+*.o
+*.d
+*.a
+*.bin
+*.elf
+*.map
+*.hex
+Libraries/CMSIS/Documentation/*
+Libraries/CMSIS/Lib/ARM/arm_cortexM3*
+Libraries/CMSIS/Lib/ARM/arm_cortexM0*
+.pydevproject
